@@ -1,0 +1,11 @@
+{
+    "user": {
+        "details": {
+            "first_name": "John",
+            "last_name": "Doe"
+        },
+        "preferences": {
+            "theme": "dark"
+        }
+    }
+}
