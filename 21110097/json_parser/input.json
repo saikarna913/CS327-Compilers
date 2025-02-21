@@ -1,0 +1,14 @@
+{
+    "user": {
+        "array": [,10],
+        "details": {
+            "first_name": "//John",
+            "last_name": "Doe"
+        },
+        "preferences": {
+            "theme": "dark"
+        },
+        "test": true 
+    }
+    
+}

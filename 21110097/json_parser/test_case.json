@@ -1,0 +1,19 @@
+{
+    //sdfsdfsd
+    "user": {
+        "array": [10,12,],
+        "details": {
+            "first_name": "//John",
+            "last_name": 1_0_000
+        },
+        "preferences": {
+            "theme": "dark"
+        },
+        "test":{ "TRUE":true ,
+                "FALSE":false,
+                "NULL" : null
+            }
+        
+    }
+    
+}
