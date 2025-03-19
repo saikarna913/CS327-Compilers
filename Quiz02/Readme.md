@@ -1,4 +1,3 @@
-Certainly! Here's the content formatted into Markdown:
 
 # COMPILERS QUIZ 2
 
